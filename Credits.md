@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Credits
+title: Creeedits
 ---
 
-## Credits 
+## Creeedits 
 
-Names of People who supported this initiative
+Names of People who supported this initiative.....
 
